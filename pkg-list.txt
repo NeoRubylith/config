@@ -13,7 +13,7 @@ clang
 clion
 clion-jre
 cmake
-discord_arch_electron
+discord
 dmenu
 dunst
 efibootmgr
@@ -56,7 +56,6 @@ make
 man-db
 mpv
 nano
-neofetch
 neovim
 ninja
 noto-fonts
